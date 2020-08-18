@@ -14,7 +14,7 @@ I dicided to apply what i have learn in this simple project
 
 please if you come across this project, tell me what i am doing wrong or how i can increase my coding skills thank you
 
-BELOW ARE SOME OF THE TUTORIALS I HAVE GONE WATCHED INCASE YOU ARE A NEWBIE LIKE ME 
+BELOW ARE SOME OF THE TUTORIALS I HAVE WATCHED INCASE YOU ARE A NEWBIE LIKE ME 
 
 1) https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ     - netNinja
 
